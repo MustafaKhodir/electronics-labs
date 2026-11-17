@@ -1,6 +1,6 @@
 # Electronics labs
 
-These are my first year electronics labs from the University of Essex, 2021 to 2022. I designed digital and analogue circuits in Multisim, then built and measured them on the bench with a Rohde & Schwarz RTB2002 oscilloscope, a bench multimeter and a bench power supply.
+I designed digital and analogue circuits in Multisim, then built and measured them on the bench with a Rohde & Schwarz RTB2002 oscilloscope, a bench multimeter and a bench power supply.
 
 ## Half adder and full adder timing
 
